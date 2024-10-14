@@ -4,6 +4,17 @@ Este repositorio contiene el desarrollo de la **Capa de Presentación** del sist
 
 ---
 
+## Integrantes
+- Vittorio Durgutti ([GitHub](https://github.com/vittoriodurigutti))
+- Luciano Lujan ([GitHub](https://github.com/lucianoilujan))
+- Dario Arriola ([GitHub](https://github.com/dr-arriola))
+- Jose Marquez ([GitHub](https://github.com/marquezjose))
+- Joaquin Garzon ([GitHub](https://github.com/Joacogarzonn))
+- Lisandro Juncos ([GitHub](https://github.com/Lisandro-05))
+- Nahuel Velez ([GitHub](https://github.com/Lucasmurua19))
+- Marcos Bordon Rios ([GitHub](https://github.com/Marcos-BR-03))
+- Tiziano Paez ([GitHub](https://github.com/tpaez))
+
 ## Descripción General
 
 La **Capa de Presentación** proporciona una **interfaz web** que permite a los **usuarios** y **administradores** interactuar con el sistema IoT. Sus principales funcionalidades son:
