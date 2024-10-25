@@ -1,3 +1,4 @@
+![Caratula](/E%20recursos/caratulaPI.png)
 # Capa de Presentación - Proyecto IoT
 
 Este repositorio contiene el desarrollo de la **Capa de Presentación** del sistema IoT, que permite a los **usuarios finales** y a los **administradores** interactuar con los dispositivos IoT a través de una interfaz web. La interacción se realiza mediante la **API RESTful** conectada a la capa de **almacenamiento**, permitiendo gestionar dispositivos, consultar datos y realizar actualizaciones.
@@ -41,7 +42,8 @@ El proyecto se organiza en las siguientes carpetas:
   ├── A_requisitos/  
   ├── B_investigacion/  
   ├── C_prototipo/  
-  ├── D_presentacion/  
+  ├── D_presentacion/
+  ├── E_recursos
   └── README.md  
 ```
 
@@ -55,6 +57,7 @@ El proyecto se organiza en las siguientes carpetas:
   
 - **D_presentacion**: Carpeta que almacena la presentación final del proyecto en los formatos que el equipo decida utilizar (PDF, MP3, MP4, etc.).
 
+- **E_recursos**: Contiene elementos gráficos según sean necesarios.
 ---
 
 ## Funcionalidades Implementadas
